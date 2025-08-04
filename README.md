@@ -10,18 +10,9 @@
 - 🐍 **Languages & Frameworks:** Python, Django, Django REST Framework  
 - 🗄️ **Databases:** PostgreSQL, MySQL, SQLite  
 - ⚙️ **Tools & Technologies:** Celery, Redis, Git, Docker, Linux  
-- 🧪 **Testing & Debugging:** Pytest, Postman, Chrome DevTools
-- 🧱 **Architecture:** REST API design, background task processing, ORM optimization  
 
 ---
 
-### 📌 Interests
-- 🚀 Backend performance & optimization  
-- 🧱 System design & clean architecture  
-- 🕒 Async processing & background jobs  
-- 🧼 Writing maintainable, readable, and production-grade code  
-
----
 
 ### 💻 Let’s code!
 
