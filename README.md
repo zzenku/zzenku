@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**zzenku/zzenku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a backend developer with a strong focus on building reliable, scalable, and maintainable systems.  
+💻 My main stack includes **Python**, **Django**, **PostgreSQL**, and **RESTful APIs**.  
+🧠 I’m experienced in designing backend architectures, working with relational databases, and developing API-driven services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise
+- 🐍 **Languages & Frameworks:** Python, Django, Django REST Framework  
+- 🗄️ **Databases:** PostgreSQL, MySQL, SQLite  
+- ⚙️ **Tools & Technologies:** Celery, Redis, Git, Docker, Linux  
+- 🧪 **Testing & Debugging:** Pytest, Postman, Chrome DevTools
+- 🧱 **Architecture:** REST API design, background task processing, ORM optimization  
+
+---
+
+### 📌 Interests
+- 🚀 Backend performance & optimization  
+- 🧱 System design & clean architecture  
+- 🕒 Async processing & background jobs  
+- 🧼 Writing maintainable, readable, and production-grade code  
+
+---
+
+### 💻 Let’s code!
+
+
