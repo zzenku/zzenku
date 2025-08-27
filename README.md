@@ -1,8 +1,7 @@
 ---
 
-🎯 I'm a python backend developer.  
-💻 My main stack includes **Python**, **Django**, **PostgreSQL**, and **RESTful APIs**.  
-🧠 I’m experienced in designing backend architectures, working with relational databases, and developing API-driven services.
+🎯 Python backend developer.  
+💻 Main stack: **Python**, **Django**, **PostgreSQL**, and **RESTful APIs**.  
 
 ---
 
