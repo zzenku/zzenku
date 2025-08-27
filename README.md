@@ -1,4 +1,6 @@
 
+---
+
 🎯 Python backend developer.  
 💻 Main stack: **Python**, **Django**, **PostgreSQL**, and **RESTful APIs**.  
 
